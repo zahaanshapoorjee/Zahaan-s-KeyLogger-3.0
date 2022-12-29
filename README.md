@@ -8,11 +8,12 @@ To the maximum extent permitted by applicable law, Zahaan Shapoorjee and/or affi
 
 **FEATURES**<br>
 1) Completely Undetectable by any Anti-Virus and all files move themselves to a hidden folder which the target cannot see.
-2) Persistence - The places itself hidden in the startup folder and runs on the target's computer even after system restart.
+2) Gives information about the target such as IP Address, location, network provider, etc. 
 3) Logs all key inputs with their exact date and time, including special cases such as 123, abc, [SHIFT], !@#, etc.
-4) Gives information about the target such as IP Address, location, network provider, etc.
-5) Gives information about the target's PC such as processor type, number of processors, page size, OEM ID, etc.
-6) Disguised under the alias "Windows Update.exe" but you can change this based on your target.
+4) Periodically emails the log files to email address of your choice along with System information, date, time, IP Address, Geolocation, etc.
+5) Persistence - The places itself hidden in the startup folder and runs on the target's computer even after system restart.
+6) Gives information about the target's PC such as processor type, number of processors, page size, OEM ID, etc.
+7) Disguised under the alias "Windows Update.exe" but you can change this based on your target.
 
 **THIS IS NOT MEANT TO BE USED MALICIOUSLY AND I HIGHLY RECOMMEND YOU DO NOT RUN THE SCRIPT ON YOUR PC**
 
