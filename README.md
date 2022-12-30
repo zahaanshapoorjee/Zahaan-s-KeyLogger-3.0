@@ -1,5 +1,5 @@
 ﻿# Zahaan-s-Keylogger-3.0
-Zahaan's Keylogger 3.0 is a Keylogger written in C++ to be used **FOR EDUCATIONAL PURPOSES ONLY**, usage of Zahaan's Keylogger 3.0 for attacking targets without prior mutual consent is illegal. The developer assumes no liability and are not responsible for any misuse or damage cause by this program.
+Zahaan's Keylogger 3.0 is a Keylogger written in C++ to be used **FOR EDUCATIONAL PURPOSES ONLY**, usage of Zahaan's Keylogger 3.0 for attacking targets without prior mutual consent is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
 
 **DO NOT RUN THIS ON YOUR COMPUTER IT IS A PAIN IN THE A$$ TO GET RID OFF**
 
